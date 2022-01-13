@@ -1,0 +1,32 @@
+body{
+background-color: darkgoldenrod;
+}
+
+.myP{
+    background-color: darkkhaki;
+    color: floralwhite;
+}
+
+.myH{
+    background-color: indianred;
+    color: ivory;
+}
+
+.myTable{
+    background-color: lightblue;
+    color: lightslategrey;
+}
+
+.myTableHead{
+    background-color: rosybrown;
+    color: darkorchid;
+}
+
+.myTr{
+    background-color: olive;
+    color: ivory;
+}
+.myFoot{
+    background-color: black;
+    color: blanchedalmond;
+}
